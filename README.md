@@ -38,24 +38,30 @@ This project demonstrates how to:
 
 ## Base model  vs Fine-tuned model outputs:
 
-Base model:
+**Base model:**
 
-<img width="807" height="564" alt="image" src="https://github.com/user-attachments/assets/154eed68-24e5-47c9-95fb-a1308ab0fb47" />
+Sample 1:
+<img width="413" height="282" alt="image" src="https://github.com/user-attachments/assets/154eed68-24e5-47c9-95fb-a1308ab0fb47" />
+
+Sample 2:
 <img width="811" height="501" alt="image" src="https://github.com/user-attachments/assets/1a3e81ee-f35b-4b45-8906-4e2ac0715e09" />
 
-Fine-tuned model:
+**Fine-tuned model:**
 
+Sample 1:
 <img width="830" height="510" alt="image" src="https://github.com/user-attachments/assets/e20b100b-f03d-4d0e-bd39-9cd5ec8a8141" />
+
+Sample2:
 <img width="847" height="554" alt="image" src="https://github.com/user-attachments/assets/bd6f2f4a-f787-41f3-88c8-867c4775bd99" />
 
 ---
 
 ## Training Performance (via WandB)
 
-Training Loss
+**Training Loss Curve**
 <img width="1086" height="650" alt="image" src="https://github.com/user-attachments/assets/db78476d-f2e8-4f5f-a193-2274168671d1" />
 
-Validation Loss
+**Validation Loss Curve**
 <img width="1087" height="641" alt="image" src="https://github.com/user-attachments/assets/1dceeccc-7c09-40cc-b752-25e4ff333388" />
 
 ---
