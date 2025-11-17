@@ -1,6 +1,6 @@
 # Qwen2_5_3B_VL_HandWritten_LaTeX_OCR
 
-This repository contains code, dataset setup, and scripts used to fine-tune **Qwen2.5-VL-3B** for converting **handwritten mathematical expressions into LaTeX code**.
+This repository contains code, dataset setup, and scripts used to fine-tune Qwen2.5-VL-3B for converting **handwritten mathematical expressions into LaTeX code**.
 
 Ideal for automating LaTeX conversion in:
 
