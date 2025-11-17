@@ -1,0 +1,12 @@
+# install pytorch according to your cuda version
+# pip install torch torchvision --index-url https://download.pytorch.org/whl/cu130
+bitsandbytes
+peft 
+trl 
+datasets
+transformers
+qwen_vl_utils
+
+# optional if you want to report your metrics to wandb etc
+python-dotenv
+wandb
