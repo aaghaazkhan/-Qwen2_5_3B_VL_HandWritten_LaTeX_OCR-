@@ -143,14 +143,15 @@ print(output_text)
 ## Evaluation Metrics
 | Metric             | Value                 |
 | ------------------ | --------------------- |
-| Token Accuracy**   | ~99.8%                |
-| Exact Match**      | ~90%                  |
+| Token Accuracy     | ~99.8%                |
+| Exact Match        | ~90%                  |
 | Val Loss           | ~0.006                |
 ---
 
 ## Requirements
 
 Install the dependencies using:
+
 `pip install -r requirements.txt`
 
 
