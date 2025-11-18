@@ -83,7 +83,7 @@ from qwen_vl_utils import process_vision_info
 
 model_id = "aaghaazkhan/Qwen2_5_3B_VL_HandWritten_LaTeX_OCR"
 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
-    "aaghaazkhan/Qwen2_5_3B_VL_HandWritten_LaTeX_OCR", torch_dtype="auto", device_map="auto"
+    model_id, torch_dtype="auto", device_map="auto"
 )
 
 processor = AutoProcessor.from_pretrained(model_id)
